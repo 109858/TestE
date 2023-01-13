@@ -1,2 +1,0 @@
-# TestE
-Meu pacote experimental
